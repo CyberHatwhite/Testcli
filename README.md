@@ -1,1 +1,165 @@
-# Testcli
+# Termux-Packages
+##### _for Tecnolab-@_
+    
+This project is with the purpose of offering easy and fast access to the installation of tools and/or frameworks provided by the cyber security and pentesting laboratory [Tecnolab-@](https://github.com/CyberHatwhite/Tecnolab-@), for the Android operating system under the [Termux](https://github.com/termux/termux-app) application.
+
+## Available tools and/or frameworks
+
+| Tool | Description |
+| ------ | ------ |
+| [Tecnolab-@](https://github.com/CyberHatwhite/Tecnolab-@) | Ciber-security and pentesting laboratory for Termux |
+| [acccheck](https://github.com/qashqao/acccheck) | Windows SMB Password Dictionary Attack Tool |
+| [adbfastboot](https://developer.android.com/studio/command-line/adb) | Versatile command-line tool that facilitates a variety of device actions |
+| [adminpanel](https://github.com/Techzindia/admin_penal) | Find website's admin panel |
+| [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | WiFi security auditing tools suite |
+| [amass](https://github.com/OWASP/Amass) | In-depth Attack Surface Mapping and Asset Discovery |
+| [androbugs](https://github.com/AndroBugs/AndroBugs_Framework) | Android vulnerability scanner |
+| [androidsdk-cli](https://developer.android.com/studio/index.html#command-tools) | Official command line Integrated Development Environment (IDE) for Android app development |
+| [apktool](https://bitbucket.org/iBotPeaches/apktool/downloads) | command-line tool used for reverse engineering Android application package (APK) |
+| [appshark](https://github.com/bytedance/appshark) | An static taint analysis platform to scan vulnerabilities in an Android app |
+| [axmlprinter2](https://code.google.com/archive/p/android4me) | Prints XML document from binary XML file (with correct namespace handing & attribute formatting) |
+| [beef](https://www.beefproject.com) | powerful and intuitive security tool focuses on leveraging browser vulnerabilities to assess the security posture of a target |
+| [binwalk](https://github.com/ReFirmLabs/binwalk) | Tool for analyzing, reverse engineering, and extracting firmware images | 
+| [bitb](https://github.com/surya-dev-singh/BITB-framwork) | Phishing technique that simulates a browser window within the browser to spoof a legitimate domain. |
+| [blackbox](https://github.com/jothatron/blackbox) | A penetration testing framework|
+| [botgram](https://github.com/CyberHatwhite/botgram) | Fetch all information about Telegram group members |
+| [burpsuite](https://portswigger.net/burp) | Graphical tool for performing security testing of web applications |
+| [cewl](https://github.com/digininja/CeWL) | Custom word lists spidering a targets website |
+| [cloudbunny](https://github.com/Warflop/CloudBunny) | Capture the real IP of the server that uses a WAF as a proxy or protection |
+| [code-server](https://github.com/Leask/code-server-nodejs) | VS Code with Nodejs development environment running on a remote server |
+| [converter](https://github.com/miluxmil/milux/blob/master/converter) | Easy multimedia file converter |
+| [credmap](https://github.com/lightos/credmap) | Test the user credentials provided on several popular websites to see if the password has been reused on any of them |
+| [cryptovenom](https://github.com/lightos/credmap) | Test the user credentials provided on several popular websites to see if the password has been reused on any of them |
+| [d-tect](https://github.com/shawarkhanethicalhacker/D-TECT-1) | Pentest the Modern Web |
+| [dos-a-tool](https://github.com/CyberHatwhite/DoS-A-Tool) | Performs denial of service attacks under the SYN Flood method |
+| [dex2jar](https://github.com/pxb1988/dex2jar) | Toolkit to work with android .dex and java .class files |
+| [dnsenum](https://github.com/fwaeytens/dnsenum) | Enumerate DNS information |
+| [embed](https://github.com/CyberHatwhite/embed) | Embed metasploit payload into a legtim APK |
+| [enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | Linux alternative to enum.exe for enumerating data from Windows and Samba hosts |
+| [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) | A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export |
+| [evilginx2](https://github.com/kgretzky/evilginx2) | Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication. |
+| [evilurl](https://github.com/UndeadSec/EvilURL) | Generate unicode domains for IDN Homograph Attack and detect them. |
+| [exif](https://github.com/CyberHatwhite/ExiF) | Extract information (meta data) from files. |
+| [exploitdb](https://github.com/offensive-security/exploitdb) | The official [Exploit Database](https://www.exploit-db.com) repository |
+| [fake-sms](https://github.com/machine1337/fake-sms) | Send messages (sms) anonymously. |
+| [fbi](https://github.com/xHak9x/fbi) | Facebook account information gathering |
+| [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery |
+| [geo-recon](https://github.com/radioactivetobi/geo-recon) | An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts. |
+| [getadusers](https://github.com/fortra/impacket/blob/master/examples/GetADUsers.py) | Gather data about the domain's users and their corresponding email addresses |
+| [getnpusers](https://github.com/fortra/impacket/blob/master/examples/GetNPUsers.py) | Attempt to list and get TGTs for those users that have the property 'Do not require Kerberos preauthentication' set  |
+| [getuserspns](https://github.com/fortra/impacket/blob/master/examples/GetUserSPNs.py) | Try to find Service Principal Names that are associated with normal user account. |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | A software reverse engineering (SRE) framework. |
+| [ghost](https://github.com/EntySec/ghost) | Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. |
+| [git-filter-repo](https://github.com/newren/git-filter-repo) | Quickly rewrite git repository history (filter-branch replacement). |
+| [gobuster](https://github.com/OJ/gobuster/) | Directory/File, DNS and VHost busting tool written in Go |
+| [gophish](https://github.com/gophish/gophish) | Open-Source advance phishing toolkit |
+| [hcdecryptor](https://gitlab.com/PANCHO7532/HCDecryptor) | Decryptor for HTTP Custom, HTTP Injector, APK Custom, eProxy, NapsternetV and SocksHTTP-based configuration files |
+| [hakku-framework](https://github.com/4shadoww/hakkuframework) | Open-source penetration testing platform used to perform web and network-related penetration testing. |
+| [hashcat](https://github.com/hashcat/hashcat.git) | World's fastest and most advanced password recovery utility |
+| [hasher](https://github.com/CiKu370/hasher) | Hash cracker with auto detect hash |
+| [hashid](https://gitlab.com/kalilinux/packages/hash-identifier/) | Software to identify the different types of hashes used to encrypt data and especially passwords. |
+| [hatcloud](https://github.com/HatBashBR/HatCloud) | Make bypass in CloudFlare for discover real IP. |
+| [hunner-framework](https://github.com/b3-v3r/Hunner) | Hacking framework to DOS sites, ftp|ssh bruteforce, scan sql and xxs vulnerabilities. |
+| [hydra-gtk](https://github.com/vanhauser-thc/thc-hydra) | Number one brute forcing tool in ciber security. |
+| [infoga](https://github.com/m4ll0k/infoga) | Gathering email accounts informations from different public source and check if emails was leaked using haveibeenpwned.com API. |
+| [ipgeolocation](https://github.com/maldevel/IPGeoLocation) | A tool to retrieve IP Geolocation information. |
+| [johntheripper](https://github.com/openwall/john) | Advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs. |
+| [jython](https://www.jython.org/) | The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in java |
+| [kerbrute](https://github.com/TarlogicSecurity/kerbrute) | An script to perform kerberos bruteforcing by using the Impacket library. |
+| [lockphish](https://github.com/Heroboycloud/lockphish-master) | A tool for phishing attacks on the lock screen, designed to grab Windows credentials, Windows, iPhone and Android PIN. |
+| [maltego](https://www.maltego.com) | Maltego is a software focused mainly on forensic analysis and developed to make link analysis and data mining more conducive from IP domains, emails, telephones, geographic locations... that is, the starting point of an investigation. |
+| [metasploit-framework](https://github.com/rapid7/metasploit-framework) | World's leading open-source penetrating framework |
+| [mimikatz](https://github.com/fortra/impacket/blob/master/examples/mimikatz.py) | Mini shell to control a remote mimikatz RPC server. |
+| [nexphisher](https://github.com/htr-tech/nexphisher) | Advanced Phishing tool for Termux. |
+| [ngrok](https://ngrok.com) | Globally distributed reverse proxy fronting your web services running in any cloud or private network, or your machine. |
+| [nikto](https://github.com/sullo/nikto) | A web server scanner. |
+| [openjdk-21](https://jdk.java.net/) | Java development kit and runtime. |
+| [osintgram](https://github.com/datalux/Osintgram) | A OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname. |
+| [ovh-ttyrec](https://github.com/ovh/ovh-ttyrec) | Terminal recorder and player (an alternative of ttyrec). |
+| [phomber](https://github.com/s41r4j/phomber) | Infomation grathering tool that reverse search phone numbers and get their details. |
+| [phonesploit](https://github.com/aerosol-can/PhoneSploit) | A tool for remote ADB exploitation for all Machines. |
+| [PuTTY](https://www.ssh.com/academy/ssh/putty/linux) | Graphical terminal program that supports the SSH, telnet, and rlogin protocols and connecting to serial ports. |
+| [pybelt](https://github.com/Ekultek/Pybelt) | An open source hackers tool belt complete. |
+| [quack](https://github.com/Monkey-hk4/quack) | Toolkit with SMS attack tool, HTTP attack tool and many other attack tools. |
+| [ransomux](https://github.com/CyberHatwhite/termux-packages) | "Simulate a ransomware effects searching to lock and encrypt files into internal|external android memory brigning a reversel shell. |
+| [recondog](https://github.com/s0md3v/ReconDog) | Reconnaissance Swiss Army Knife |
+| [recon-ng](https://github.com/lanmaster53/recon-ng) | Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources. |
+| [redhawk](https://github.com/Tuhinshubhra/RED_HAWK) | All in one tool for Information Gathering, Vulnerability Scanning and Crawling |
+| [routersploit](https://github.com/threat9/routersploit) | Open-source exploitation framework dedicated to embedded devices. |
+| [saycheese](https://github.com/hangetzzu/saycheese) | Grab target's webcam shots by link. |
+| [sayhello](https://github.com/d093w1z/sayhello) | Capturing audio (.wav) from target using a link. |
+| [seclists](https://github.com/danielmiessler/SecLists) | SecLists it's a collection of multiple types of lists used during security assessments, collected in one place. |
+| [seeker](https://github.com/thewhiteh4t/seeker) | Accurately Locate Smartphones using Social Engineering. |
+| [shc](http://www.datsi.fi.upm.es/~frosal/sources/shc.html) | The Shell Script Compiler (SHC) encodes and encrypts shell scripts into executable binaries. |
+| [shellsploit](https://github.com/vasco2016/shellsploit-framework) |It let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders. |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks. |
+| [slowhttptest](https://github.com/shekyan/slowhttptest) | A highly configurable tool that simulates some Application Layer Denial of Service attacks by prolonging HTTP connections in different ways. |
+| [spix](https://github.com/VictorH028/spix) | A command line (CLI) tool written in C++ that displays an animated spinner while a background process is running. |
+| [sqliv](https://github.com/the-robot/sqliv) | Massive SQL injection vulnerability scanner. |
+| [stegsnow](https://www.kali.org/tools/stegsnow/) | Hide messages in ASCII text by appending whitespaces to the end of lines |
+| [storm-breaker](https://https://github.com/ultrasecurity/Storm-Breaker) | Social engineering tool [Access Webcam & Microphone & Location Finder] With {Py,JS,PHP} |
+| [sublist3r](https://github.com/aboul3la/Sublist3r) | Fast subdomains enumeration tool for penetration testers. |
+| [tangalanga](github.com/elcuervo/tangalanga) | The Zoom conference scanner hacking tool. |
+| [termux-desktop-xfce](https://github.com/Yisus7u7/termux-desktop-xfce) | Set up a beautiful xfce desktop in termux. |
+| [termux-docker-qemu](https://telegra.ph/Docker-en-Android-10-26) | Provide an additional layer of application virtualization with Linux kernel resource isolation features. |
+| [trape](https://github.com/jofpin/trape) | OSINT analysis and research tool. |
+| [unshc](https://github.com/yanncam/UnSHc) | The Shell Script UnCompiler (UNSHC) decode and decrypt SHC file on X86/x64 architecture. |
+| [userrecon](https://github.com/issamelferkh/userrecon) | Find usernames across over 75 social networks. |
+| [vulnx](https://github.com/anouarbensaad/vulnx) | An intelligent bot auto shell injector that detects vulnerabilities in multiple types of cms. |
+| [wbruter](https://github.com/wuseman/WBRUTER) | Disable device pin code aslong as usb debugging and brute force methods like dictionary attacks for gmail, ftp, rar, zip and some other file extensions. |
+| [webscan](https://github.com/Fenrir-00/investigar-web) | A lightweight webscanner tool. |
+| [websploit](https://github.com/The404Hacking/websploit) | MITM framework. |
+| [wfuzz](https://pypi.org/project/wfuzz/) con [fuzzDB](https://github.com/fuzzdb-project/fuzzdb) | Brute force attack tool with dictionary of attack patterns and primitives for black-box application fault injection and resource discovery |
+| [whatweb](https://github.com/urbanadventurer/WhatWeb) | Recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices. |
+| [wpscan](https://github.com/wpscanteam/wpscan) | WordPress security scanner. |
+| [xapt-management](https://github.com/CyberHatwhite/xapt-management) | X-Desktop graphical interface for advance package tool(APT) written in python. |
+| [xerosploit](https://github.com/LionSec/xerosploit) | A penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. |
+| [xml2axml](https://github.com/codyi96/xml2axml) | Encoding xml to axml OR decoding axml to xml |
+| [zaproxy](https://www.kali.org/tools/zaproxy/) | The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications |
+##### Suggest a tool and/or framework to be add in our [Telegram Support Group](https://t.me/CyberHatwhiteby_Cinderella)
+    
+## INSTALLATION ...
+
+To add the list of available tools and/or frameworks to the package manager `apt/pkg` in [Termux](https://github.com/termux/termux-app) copy and paste the following commands in your Termux terminal: 
+
+- Install `wget` and `gnupg` package:
+```bash
+apt install wget gnupg
+```
+
+- Create a directory:
+```bash
+mkdir -p $PREFIX/etc/apt/sources.list.d
+```
+
+- Download sources file:
+```bash
+wget https://raw.githubusercontent.com/CyberHatwhite/termux-packages/gh-pages/CyberHatwhite-termux-packages.list -O $PREFIX/etc/apt/sources.list.d/CyberHatwhite-termux-packages.list
+```
+
+- Download signed key 
+```
+curl -fsSL "https://raw.githubusercontent.com/CyberHatwhite/termux-packages/gh-pages/dists/stable/public_key.gpg" \
+|gpg --dearmor|tee "$PREFIX/etc/apt/trusted.gpg.d/CyberHatwhite.gpg" >/dev/null
+```
+
+- Update Termux:
+```bash
+apt update
+```
+Or if you prefer, you can do it with one command line to add the repository copy and paste the following command in your Termux terminal:
+```bash
+yes|apt install wget gnupg && \
+mkdir -p $PREFIX/etc/apt/sources.list.d && \
+wget https://raw.githubusercontent.com/CyberHatwhite/termux-packages/gh-pages/CyberHatwhite-termux-packages.list -O \
+$PREFIX/etc/apt/sources.list.d/CyberHatwhite-termux-packages.list && \
+curl -fsSL "https://raw.githubusercontent.com/CyberHatwhite/termux-packages/gh-pages/dists/stable/public_key.gpg" \
+|gpg --dearmor|tee "$PREFIX/etc/apt/trusted.gpg.d/CyberHatwhite.gpg" >/dev/null && \
+apt update
+```
+
+### License
+
+GNU
+
+##### Follow me on [Socials Network](https:??)
