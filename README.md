@@ -1,13 +1,13 @@
 # Termux-Packages
-##### _for e-Tecnol@b_
+##### _for e-Tecnolab_
     
-This project is with the purpose of offering easy and fast access to the installation of tools and/or frameworks provided by the cyber security and pentesting laboratory [e-Tecnol@b](https://github.com/CyberHatwhite/e-Tecnol@b), for the Android operating system under the [Termux](https://github.com/termux/termux-app) application.
+This project is with the purpose of offering easy and fast access to the installation of tools and/or frameworks provided by the cyber security an pentesting laboratory [e-Tecnolab](https://github.com/CyberHatwhite/e-Tecnolab), for the Android operating system under the [Termux](https://github.com/termux/termux-app) application.
 
 ## Available tools and/or frameworks
 
 | Tool | Description |
 | ------ | ------ |
-| [e-Tecnol@b](https://github.com/CyberHatwhite/e-Tecnol@b) | Ciber-security and pentesting laboratory for Termux |
+| [e-Tecnolab](https://github.com/CyberHatwhite/e-Tecnolab) | Ciber-security and pentesting laboratory for Termux |
 | [acccheck](https://github.com/qashqao/acccheck) | Windows SMB Password Dictionary Attack Tool |
 | [adbfastboot](https://developer.android.com/studio/command-line/adb) | Versatile command-line tool that facilitates a variety of device actions |
 | [adminpanel](https://github.com/Techzindia/admin_penal) | Find website's admin panel |
